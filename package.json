@@ -43,6 +43,6 @@
   },
   "homepage": "https://github.com/pbakondy/cordova-plugin-sim#readme",
   "scripts": {
-    "preinstall": "node preinstall.js"
+    
   }
 }
